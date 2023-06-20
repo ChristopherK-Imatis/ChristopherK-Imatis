@@ -1,0 +1,3 @@
+- Hi, I’m @ChristopherK-Imatis
+- I’m interested in programming, music, games and lots more!
+- I’m currently learning a ton of stuff, including Visual Studio, C# and more
